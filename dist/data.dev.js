@@ -1,0 +1,3 @@
+"use strict";
+
+var dataInfo = "\n[\n    {\n        \"id\": \"fh\",\n        \"url\": \"https://cdn2.thecatapi.com/images/fh.jpg\",\n        \"width\": 720,\n        \"height\": 540\n    },\n    {\n        \"id\": \"9n8\",\n        \"url\": \"https://cdn2.thecatapi.com/images/9n8.jpg\",\n        \"width\": 600,\n        \"height\": 420\n    },\n    {\n        \"id\": \"a2o\",\n        \"url\": \"https://cdn2.thecatapi.com/images/a2o.jpg\",\n        \"width\": 500,\n        \"height\": 750\n    }\n]\n";

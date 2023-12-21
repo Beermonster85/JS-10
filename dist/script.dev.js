@@ -1,0 +1,3 @@
+"use strict";
+
+var dataInfo = "\n[\n    {\n        \"header\": \"cat in the box\",\n        \"url\": \"https://cdn2.thecatapi.com/images/fh.jpg\",\n        \"width\": 720,\n        \"height\": 540,\n        \"paragraph\": \"cat is hiding from her owner in the red box\"\n    },\n    {\n        \"header\": \"cat is playing billiards\",\n        \"url\": \"https://cdn2.thecatapi.com/images/9n8.jpg\",\n        \"width\": 600,\n        \"height\": 420,\n        \"paragraph\": \"cat is tired of playing billiards\"\n    },\n    {\n        \"header\": \"cats are hunting\",\n        \"url\": \"https://cdn2.thecatapi.com/images/a2o.jpg\",\n        \"width\": 500,\n        \"height\": 750,\n        \"paragraph\": \"two cats are hunting in the forrest\"\n    }\n]\n";

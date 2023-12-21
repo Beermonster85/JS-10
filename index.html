@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="content"> </div>
+
+    <script src="script.js"></script>
+
+    <script>
+        const data = JSON.parse(dataInfo)
+        console.log(data)
+        const content = document.querySelector('.content');
+        data.forEach((Element) => {
+            content.insertAdjacentHTML('beforeend',
+                `<h1> Header - ${Element.header}</h1>
+                <img src="${Element.url}"  width ="${Element.width}" height ="${Element.height}"/> 
+                <p> ${Element.paragraph}</p>
+            `);
+            content
+
+        })
+    </script>
+</body>
+
+</html>
